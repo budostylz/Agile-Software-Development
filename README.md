@@ -8,6 +8,6 @@ http://agilemanifesto.org/
 
 http://scrumguides.org
 
-## Course Social Link
+## Course Backlog
 
 https://trello.com/b/sQfxo5KK/harvard-csci-e-71-s-71-course-backlog
