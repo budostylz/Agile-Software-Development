@@ -19,3 +19,7 @@ http://www.extremeprogramming.org
 ## The Rules of Extreme Programming
 
 http://www.extremeprogramming.org/rules.html
+
+ ## Getting Started with Kanban
+ 
+ https://kanbanery.com/ebook/GettingStartedWithKanban.pdf
