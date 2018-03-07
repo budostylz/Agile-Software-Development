@@ -23,3 +23,9 @@ http://www.extremeprogramming.org/rules.html
  ## Getting Started with Kanban
  
  https://kanbanery.com/ebook/GettingStartedWithKanban.pdf
+ 
+ ## Steps
+ 1. Understand the client's problem.
+ 2. Create a requirement from the problem.
+ 3. Create a solution for the problem.
+ 4. Create a schedule for the solution.
