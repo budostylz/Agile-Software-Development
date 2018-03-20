@@ -24,6 +24,10 @@ http://www.extremeprogramming.org/rules.html
  
  https://kanbanery.com/ebook/GettingStartedWithKanban.pdf
  
+ ## Kanbanery
+ 
+ https://kanbanery.com
+ 
  ## Steps
  1. Understand the client problem.
  2. Create a requirement from the problem.
