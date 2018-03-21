@@ -35,12 +35,17 @@ http://www.extremeprogramming.org/rules.html
  4. Create a schedule for the solution.
  
  ## Kanban Principles
- 
-0.Backlog: Work items pending.
+Defined Process
+0.Backlog: Work items pending
+
 1.Define
+
 2.Design
+
 3.Build
+
 4.Test
+
 5.Deploy
 
 WIP( Work in Progress )
