@@ -37,17 +37,17 @@ http://www.extremeprogramming.org/rules.html
  ## Kanban Principles
 Defined Process
 
-0.Backlog: Work items pending
+0. Backlog: Work items pending
 
-1.Define
+1. Define
 
-2.Design
+2. Design
 
-3.Build
+3. Build
 
-4.Test
+4. Test
 
-5.Deploy
+5. Deploy
 
 WIP( Work in Progress )
 
