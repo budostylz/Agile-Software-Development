@@ -56,3 +56,7 @@ Lead Time: How long it takes to get something done from the time it is requested
 Cycle Time: How long it takes someone to finish a task once they have started it.
 
 Defining risks and values for each task. 
+
+## How To: Create a Kanban Board in SharePoint 2010 with Zero Code
+
+http://www.danielroot.info/2010/11/how-to-create-kanban-board-in.html
