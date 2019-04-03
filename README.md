@@ -60,3 +60,15 @@ Defining risks and values for each task.
 ## How To: Create a Kanban Board in SharePoint 2010 with Zero Code
 
 http://www.danielroot.info/2010/11/how-to-create-kanban-board-in.html
+
+## User Stories
+
+https://www.mountaingoatsoftware.com/agile/user-stories
+
+## Functional vs Non Functional Requirements
+
+https://reqtest.com/requirements-blog/functional-vs-non-functional-requirements/
+
+
+
+
