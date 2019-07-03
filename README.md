@@ -84,3 +84,6 @@ https://blog.bitsrc.io/understanding-design-patterns-in-javascript-13345223f2dd
 ## Framer X
 https://www.framer.com/design/
 
+## 20 EASY-TO-USE MOCKUP TOOLS TO DESIGN YOUR NEXT APP
+https://codingsans.com/blog/mockup-tools
+
